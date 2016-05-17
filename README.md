@@ -25,7 +25,7 @@ This sbt plugin can be used to check duplicated files, especially for duplicated
 ## How To Use It ##
 Add the following line to your project/plugins.sbt: 
 
-    addSbtPlugin("woshilaiceshide" % "sbt-duplicated-checker" % "0.1-SNAPSHOT")
+    addSbtPlugin("woshilaiceshide" % "sbt-duplicated-checker" % "0.1")
 
 If the artifact is not located correctly, just download the source code, and then issue:
  
